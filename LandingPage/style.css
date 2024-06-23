@@ -8,6 +8,9 @@
     background-size:cover;
     height:100vh;
 }
+.logo a{
+    letter-spacing:2.7px;
+}
 .btn_one i{
    color:white;
    font-size:30px;
